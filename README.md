@@ -1,5 +1,7 @@
 # 01_repo_ki
 
+# (1st of 2 files)
+
 # Discription:
 Ai classification/Analysing pictures and tell the difference between them.
 
@@ -30,3 +32,8 @@ Sequential)
 
 6: Write a code with all functions, Imports and Images are in.
 
+
+
+    print(f"Model prediction: {predicted_class}")
+
+predict_image("dataset/pexels-kmerriman-20787.jpg")
