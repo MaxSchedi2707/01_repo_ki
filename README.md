@@ -1,7 +1,7 @@
 # 01_repo_ki
 
 # Discription:
-Ai classification 
+Ai classification/Analysing pictures and tell the difference between them.
 
 # Technologie:
 Phyton 3
